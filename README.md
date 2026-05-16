@@ -1,3 +1,2 @@
-# SPAM Filter using ML Project
-
-text here
+# Taller de Laboratorio: IA Financiera
+stuff
