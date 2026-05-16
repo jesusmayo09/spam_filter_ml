@@ -1,3 +1,3 @@
-# another readme.md stuff in here for spam filter ml
+# SPAM Filter using ML Project
 
 text here
