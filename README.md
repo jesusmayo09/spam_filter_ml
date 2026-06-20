@@ -32,18 +32,6 @@ El objetivo principal es aprender cómo transformar texto en variables numérica
 
 ---
 
-# 📚 Librerías principales
-
-```python
-import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-```
-
----
-
 # 🧠 Algoritmo utilizado
 
 ## Naive Bayes Multinomial
@@ -158,50 +146,6 @@ El notebook incluye actividades adicionales para reforzar el aprendizaje:
 - Modificar stop words
 - Agregar nuevos correos de entrenamiento
 - Analizar cómo cambia el modelo
-
----
-
-# ▶️ Cómo ejecutar el proyecto
-
-## 1. Clonar el repositorio
-
-```bash
-git clone <url-del-repositorio>
-```
-
----
-
-## 2. Instalar dependencias
-
-```bash
-pip install pandas scikit-learn jupyter
-```
-
----
-
-## 3. Ejecutar Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Abrir el archivo:
-
-```bash
-spam_email_ml.ipynb
-```
-
----
-
-# 🚀 Posibles mejoras futuras
-
-- Utilizar un dataset real de correos
-- Implementar TF-IDF
-- Probar otros algoritmos de clasificación
-- Crear una interfaz web
-- Implementar Deep Learning para NLP
-- Añadir limpieza avanzada de texto
-- Soporte para múltiples idiomas
 
 ---
 
